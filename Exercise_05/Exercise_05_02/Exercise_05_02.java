@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Exercise_05_02 {
 	public static void main(String[] args) {
 		final int NUMBER_OF_QUESTIONS = 10;	// Number of questions
-		int correctCount = 0;	// Count the nubmer of correct answers
+		int correctCount = 0;	// Count the number of correct answers
 		int count = 0;	// Count the number of questions
 		long startTime = System.currentTimeMillis();
 		String output = " "; // output string is initially empty

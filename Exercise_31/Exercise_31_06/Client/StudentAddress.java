@@ -1,9 +1,9 @@
 public class StudentAddress implements java.io.Serializable {
-	private String name;
-	private String street;
-	private String city;
-	private String state;
-	private String zip;
+	private final String name;
+	private final String street;
+	private final String city;
+	private final String state;
+	private final String zip;
 
 	public StudentAddress(String name, String street, String city, 
 		String state, String zip) {

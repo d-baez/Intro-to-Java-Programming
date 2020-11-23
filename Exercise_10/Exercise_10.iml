@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_19" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_26" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_21" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_28" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_17" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_16" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_20" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_18" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_27" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_22" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_13" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_15" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_10_23" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

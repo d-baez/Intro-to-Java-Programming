@@ -10,9 +10,9 @@ public class Exercise_03_13 {
 		Scanner input = new Scanner(System.in);
 
 		// Prompt the user to enter filing status
-		System.out.print("(0-single filter, 1-married jointly or " +
+		System.out.print("(0-single , 1-married jointly or " +
 			"qualifying widow(er), 2-married separately, 3-head of " +
-			"houshold) Enter the filing status: ");
+			"household) Enter the filing status: ");
 		int status = input.nextInt();
 
 		// Prompt the user to enter taxable income

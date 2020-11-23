@@ -19,7 +19,7 @@ public class Exercise_05_41 {
 		System.out.print("Enter numbers: ");
 		int max = input.nextInt();	// Assign the first number to max
 		int count = 1;					// Assign 1 to count
-		int number;						// Holds future inputs
+		int number = 0;						// Holds future inputs
 
 		// Assume that the input ends with number 0
 		while (number > 0) {

@@ -30,9 +30,9 @@ public class Exercise_03_15 {
 
 		// Extract digits from guess
 		int guessDigit1 = guess / 100;
-		int remainingDigits = guess % 100;
-		int guessDigit2 = remainingDigits / 10;
-		int guessDigit3 = remainingDigits % 10;
+		int remainingDigitsg = guess % 100;
+		int guessDigit2 = remainingDigitsg / 10;
+		int guessDigit3 = remainingDigitsg % 10;
 
 		System.out.println("The lottery number is " + lottery);
 

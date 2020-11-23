@@ -17,13 +17,13 @@ public class Exercise_03_06 {
 		System.out.print("Enter inches: ");
 		double inches = input.nextDouble();
 
-		final double KILOGRAMS_PER_POUND = 0.45359237; // Constant
-		final double METERS_PER_INCH = 0.0254; 		  // Constant
-		final double FEET_PER_INCH = 0.0833333;		  // Constant
+		final double kilo_per_lb = 0.45359237; // Constant
+		final double m_per_in = 0.0254; 		  // Constant
+		final double ft_per_in = 0.0833333;		  // Constant
 
 		// Compute BMI
-		weight *= KILOGRAMS_PER_POUND; 
-		double height = (inches += feet / FEET_PER_INCH) * METERS_PER_INCH;
+		weight *= kilo_per_lb;
+		double height = (inches += feet / ft_per_in) * m_per_in;
 		double bmi = weight / (Math.pow(height, 2));
 
 		// Display result

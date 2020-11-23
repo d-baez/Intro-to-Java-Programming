@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercise_01/Exercise_01.iml" filepath="$PROJECT_DIR$/Exercise_01/Exercise_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_02/Exercise_02.iml" filepath="$PROJECT_DIR$/Exercise_02/Exercise_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_03/Exercise_03.iml" filepath="$PROJECT_DIR$/Exercise_03/Exercise_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_04/Exercise_04.iml" filepath="$PROJECT_DIR$/Exercise_04/Exercise_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_05/Exercise_05.iml" filepath="$PROJECT_DIR$/Exercise_05/Exercise_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_06/Exercise_06.iml" filepath="$PROJECT_DIR$/Exercise_06/Exercise_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_07/Exercise_07.iml" filepath="$PROJECT_DIR$/Exercise_07/Exercise_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_08/Exercise_08.iml" filepath="$PROJECT_DIR$/Exercise_08/Exercise_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_09/Exercise_09.iml" filepath="$PROJECT_DIR$/Exercise_09/Exercise_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_10/Exercise_10.iml" filepath="$PROJECT_DIR$/Exercise_10/Exercise_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_11/Exercise_11.iml" filepath="$PROJECT_DIR$/Exercise_11/Exercise_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_12/Exercise_12.iml" filepath="$PROJECT_DIR$/Exercise_12/Exercise_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_13/Exercise_13.iml" filepath="$PROJECT_DIR$/Exercise_13/Exercise_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_14/Exercise_14.iml" filepath="$PROJECT_DIR$/Exercise_14/Exercise_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_15/Exercise_15.iml" filepath="$PROJECT_DIR$/Exercise_15/Exercise_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_16/Exercise_16.iml" filepath="$PROJECT_DIR$/Exercise_16/Exercise_16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_17/Exercise_17.iml" filepath="$PROJECT_DIR$/Exercise_17/Exercise_17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_18/Exercise_18.iml" filepath="$PROJECT_DIR$/Exercise_18/Exercise_18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_19/Exercise_19.iml" filepath="$PROJECT_DIR$/Exercise_19/Exercise_19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_20/Exercise_20.iml" filepath="$PROJECT_DIR$/Exercise_20/Exercise_20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_21/Exercise_21.iml" filepath="$PROJECT_DIR$/Exercise_21/Exercise_21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_22/Exercise_22.iml" filepath="$PROJECT_DIR$/Exercise_22/Exercise_22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_23/Exercise_23.iml" filepath="$PROJECT_DIR$/Exercise_23/Exercise_23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_24/Exercise_24.iml" filepath="$PROJECT_DIR$/Exercise_24/Exercise_24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_25/Exercise_25.iml" filepath="$PROJECT_DIR$/Exercise_25/Exercise_25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_27/Exercise_27.iml" filepath="$PROJECT_DIR$/Exercise_27/Exercise_27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_28/Exercise_28.iml" filepath="$PROJECT_DIR$/Exercise_28/Exercise_28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_31/Exercise_31.iml" filepath="$PROJECT_DIR$/Exercise_31/Exercise_31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_31/Exercise_31_06/Exercise_31_06.iml" filepath="$PROJECT_DIR$/Exercise_31/Exercise_31_06/Exercise_31_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Intro-to-Java-Programming.iml" filepath="$PROJECT_DIR$/.idea/Intro-to-Java-Programming.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_21_02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_21_03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_21_04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_21_10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_21_11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_21_01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_21_06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_21_08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_21_09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_21_07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_21_13" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_21_14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_21_15" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise_21_12" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

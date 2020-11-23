@@ -15,7 +15,7 @@ public class Exercise_04_14 {
 		char ch = s.charAt(0);
 		ch = Character.toUpperCase(ch);
 		
-		if (ch >= 'A' && ch <= 'F' && ch != 'E')
+		if (ch >= 'A' && ch <= 'F')
 		{
 			System.out.print("The numeric value for grade " + ch + " is ");
 			switch(ch)

@@ -24,10 +24,10 @@ public class Exercise_03_01 {
 		double b = input.nextDouble();
 		double c = input.nextDouble();
 
-		// Compute the discriminant of the quadriatic equation.
+		// Compute the discriminant of the quadratic equation. (inside of root)
 		double discriminant = Math.pow(b, 2) - 4 * a * c;
 
-		// Compute the real roots of the quadriatic equation if any.
+		// Compute the real roots of the quadratic equation if any.
 		System.out.print("The equation has ");
 		if (discriminant > 0)
 		{

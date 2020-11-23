@@ -8,7 +8,7 @@ public class Exercise_05_07 {
 	public static void main(String[] args) {
 		int totalCost = 0;		// Accumulate total cost of four years tution
 		int tuition = 10000;
-		int tuitionTenthYear;
+		int tuitionTenthYear = 0;
 
 		for (int year = 1; year <= 14; year++) {
 			// Increase tution by 5% every year
