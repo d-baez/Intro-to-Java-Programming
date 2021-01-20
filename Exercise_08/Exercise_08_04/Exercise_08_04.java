@@ -70,11 +70,12 @@ public class Exercise_08_04 {
 	}
 
 	/** print displays table of employees and their total hours */
-	public static void print(int[][] m) {
+	public static void print(int[][] m ) {
 		System.out.println("Employee     Weekly Hours");
 		System.out.println("-------------------------");
 		for (int row = 0; row < m.length; row++) {
-				System.out.printf("%4d%16d\n", m[row][0], totalHours[row][1]);
+			int[][] totalHours = new int[0][];
+			System.out.printf("%4d%16d\n", m[row][0], totalHours[row][1]);
 		}	
 	}
 }

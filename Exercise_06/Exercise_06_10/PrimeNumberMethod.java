@@ -1,4 +1,4 @@
-public class PrimeNumberMethod {
+class PrimeNumberMethod1 {
 	public static void main(String[] args) {
 		System.out.println("The first 50 prime numbers are \n");
 		printPrimeNumbers(50);

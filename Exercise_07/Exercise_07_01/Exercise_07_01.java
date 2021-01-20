@@ -18,7 +18,7 @@ public class Exercise_07_01 {
 		Scanner input = new Scanner(System.in);
 
 		// Prompt the user to enter the total number of students
-		System.out.print("Enter the nubmer of students: ");
+		System.out.print("Enter the number of students: ");
 		int[] scores = new int[input.nextInt()];
 		char[] grades = new char[scores.length];
 

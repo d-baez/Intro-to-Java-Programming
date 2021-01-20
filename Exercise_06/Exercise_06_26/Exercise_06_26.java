@@ -31,6 +31,6 @@ public class Exercise_06_26 {
 	    Palindrome. False otherwise */
 	public static boolean isPalindromicPrime(int num) {
 		return PrimeNumberMethod.isPrime(num) && 
-				 Exercise_06_03.isPalindrome(num);
+				 Exercise_06_031.isPalindrome(num);
 	}
 }

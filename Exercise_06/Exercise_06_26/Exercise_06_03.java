@@ -13,7 +13,7 @@ user to enter an integer and reports whether the integer is a palindrome.
 */
 import java.util.Scanner;
 
-public class Exercise_06_03 {
+ class Exercise_06_034 {
 	/** Main Method */
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in); // Create a Scanner

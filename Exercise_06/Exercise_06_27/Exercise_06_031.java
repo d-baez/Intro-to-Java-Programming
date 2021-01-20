@@ -13,7 +13,7 @@ user to enter an integer and reports whether the integer is a palindrome.
 */
 import java.util.Scanner;
 
-public class Exercise_06_03 {
+ public class Exercise_06_031 {
 	/** Main Method */
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in); // Create a Scanner
@@ -40,6 +40,6 @@ public class Exercise_06_03 {
 		for (int i = n.length() - 1; i >= 0; i--) {
 			reverse += n.charAt(i);
 		}
-		return Integer.parseInt(reverse); // Return reversed integer
+		return Integer.parseInt(reverse); // Return flip integer
 	}
 }

@@ -17,7 +17,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Exercise_01_12" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exercise_01_13" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

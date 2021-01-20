@@ -9,7 +9,7 @@ Write a test program that uses this method to display the first 100 pentagonal
 numbers with 10 numbers on each line.
 */
 public class Exercise_06_01 {
-	/** Main Method */
+	// Main Method
 	public static void main(String[] args) {
 		final int NUMBER_OF_PENTAGONALS = 100; // Display the first 100 pentagonals
 		final int NUMBER_PER_LINE = 10; // Display 10 number per line
@@ -25,7 +25,7 @@ public class Exercise_06_01 {
 		}
 	}
 
-	/** Return a pentagonal number */
+	// result a pentagonal number
 	public static int getPentagonalNumber(int n) {
 		return (n * (3 * n - 1)) / 2;
 	}

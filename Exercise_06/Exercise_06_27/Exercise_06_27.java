@@ -31,7 +31,7 @@ public class Exercise_06_27 {
 	/** Method isEmirp returns true is number is an emirp. False otherwise */
 	public static boolean isEmirp(int num) {
 		return PrimeNumberMethod.isPrime(num) &&
-				 !Exercise_06_03.isPalindrome(num) && 
-				 PrimeNumberMethod.isPrime(Exercise_06_03.reverse(num));
+				 !Exercise_06_031.isPalindrome(num) &&
+				 PrimeNumberMethod.isPrime(Exercise_06_031.reverse(num));
 	}
 }
