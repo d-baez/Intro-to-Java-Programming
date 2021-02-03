@@ -22,7 +22,7 @@
 *****************************************************/
 
 // Implement LinearEquation class
-public class LinearEquation {
+class LinearEquation1 {
 	// Data fields
 	private double a;
 	private double b;
@@ -32,7 +32,7 @@ public class LinearEquation {
 	private double f;
 
 	/** Constructor with arguments for a, b, c, d, e, and f */
-	LinearEquation(double a, double b, double c, double d, double e, double f) {
+	LinearEquation1(double a, double b, double c, double d, double e, double f) {
 		this.a = a;
 		this.b = b;
 		this.c = c;
