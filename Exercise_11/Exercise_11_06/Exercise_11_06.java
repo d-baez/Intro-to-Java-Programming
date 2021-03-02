@@ -14,7 +14,7 @@ public class Exercise_11_06 {
 		ArrayList<Object> o = new ArrayList<Object>();
 		o.add(new Loan());		
 		o.add(new Date());		
-		o.add(new String("String class"));	
+		o.add(new String("String class"));
 		o.add(new Circle());	
 
 		// Display all the elements in the list by 

@@ -45,46 +45,51 @@ public class MyRectangle2D {
 		this.height = height;
 	}
 
-	// Methods
-	/** Set x to specified point */
-	public void setX(double x) {
-		this.x = x;
+	public static MyRectangle2D getRectangle(double[][] points) {
+		return null;
 	}
 
-	/** Set y to specified point */
-	public void setY(double y) {
-		this.x = y;
-	}
 
-	/** Return x */
-	public double getX() {
-		return x;
-	}
+		// Methods
+		/** Set x to specified point */
+		public void setX ( double x){
+			this.x = x;
+		}
 
-	/** Return y */
-	public double getY() {
-		return y;
-	}
+		/** Set y to specified point */
+		public void setY ( double y){
+			this.x = y;
+		}
 
-	/** Set width to specified length */
-	public void setWidth(double width) {
-		this.width = width;
-	}
+		/** Return x */
+		public double getX () {
+			return x;
+		}
 
-	/** Set heigth to specified length */
-	public void setHeight(double height) {
-		this.height = height;
-	}
+		/** Return y */
+		public double getY () {
+			return y;
+		}
 
-	/** Return height */
-	public double getHeight() {
-		return height;
-	}
+		/** Set width to specified length */
+		public void setWidth ( double width){
+			this.width = width;
+		}
 
-	/** Return width */
-	public double getWidth() {
-		return width;
-	}
+		/** Set heigth to specified length */
+		public void setHeight ( double height){
+			this.height = height;
+		}
+
+		/** Return height */
+		public double getHeight () {
+			return height;
+		}
+
+		/** Return width */
+		public double getWidth () {
+			return width;
+		}
 
 	/** Returns the area of the rectangle */
 	public double getArea() {
