@@ -6,7 +6,7 @@
 *********************************************************************************/
 import java.util.Scanner;
 
-public class Hex2Dec {
+public class Hex2Dec1 {
 	/** Main method */
 	public static void main(String[] args) {
 		// Create a Scanner
@@ -27,7 +27,7 @@ public class Hex2Dec {
 
 	/** Converts a hex string into a decimal number and throws a 
 	  * HexFormatException if the string is not a hex string */
-	public static int hexToDecimal(String hex) throws HexFormatException {
+	public static int hexToDecimal1(String hex) throws HexFormatException {
 		int decimalValue = 0;
 		for (int i = 0; i < hex.length(); i++) {
 			if (!((hex.charAt(i) >= '0' && hex.charAt(i) <= '9') ||

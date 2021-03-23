@@ -1,19 +1,19 @@
 public class CalculatorWithException {
 	/** Main method */
 	public static void main(String[] args) throws NumberFormatException {
-		// Check number of strings passed
+		// Check number of strings test, see if they work or not
 		if (args.length != 3) {
 			System.out.println(
 				"Usage: java Calculator operand1 operator operand2");
 			System.exit(0);
 		}
 
-		// The result of the operation
+		// The return result
 		int result = 0;
 
-		// Exeception handler to deal with nonnumeric operands
+		// deal with nonnumeric operands
 		try {
-			// Determine the operator
+			// find the correct operator
 			switch (args[1].charAt(0)) {
 				case '+' : result = Integer.parseInt(args[0]) +
 										  Integer.parseInt(args[2]);
